@@ -1,7 +1,0 @@
-README.md
-extract.py
-pyproject.toml
-PhishingEmail.egg-info/PKG-INFO
-PhishingEmail.egg-info/SOURCES.txt
-PhishingEmail.egg-info/dependency_links.txt
-PhishingEmail.egg-info/top_level.txt
