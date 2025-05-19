@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]  # Added "wheel" as it's good practice
+build-backend = "setuptools.build_meta"
+# Ensure the 'backend-path' line is removed or commented out, like below:
+# backend-path = ["."]
+
+[project]
+name = "PhishingEmail"
+version = "0.1.0"
+# Add other project metadata if you haven't already
+# e.g., authors, description, etc.
